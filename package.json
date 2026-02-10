@@ -1,0 +1,15 @@
+{
+  "name": "primer_codigo",
+  "version": "1.0.0",
+  "description": "Este es mi primer codigo intento",
+  "license": "ISC",
+  "author": "Leslie Noemi",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
