@@ -1,0 +1,16 @@
+{
+  "name": "aplicacionesdistribuidas",
+  "version": "1.0.0",
+  "description": "testh using MongoBD",
+  "license": "ISC",
+  "author": "Leslie Noemi Palacios Reyes",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "mongodb": "^7.1.0"
+  }
+}
